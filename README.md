@@ -2,7 +2,9 @@
 글로벌 소프트웨어 공모전 - Image Generator Python WebSocket
 </br>
 
-# 정리
+진행 기간 : 2018년 8월~10월
+
+### 공모전 준비하면서 기록한 자료 정리
 - [GAN 개념 정리](http://kim6394.tistory.com/73?category=662054)
 - [DCGAN 코드리뷰](http://kim6394.tistory.com/82?category=662054)
 - [pix2pix 코드리뷰](http://kim6394.tistory.com/92?category=662054)
